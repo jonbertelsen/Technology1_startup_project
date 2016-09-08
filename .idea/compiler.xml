@@ -25,8 +25,11 @@
         <module name="StarterProject_25_8_2016" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StarterProject_25_8_2016" target="1.5" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="StarterProject_25_8_2016" target="1.7" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-source 1.7 " />
   </component>
 </project>
