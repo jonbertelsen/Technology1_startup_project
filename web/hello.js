@@ -2,7 +2,7 @@
  * http://stackoverflow.com/questions/18260815/use-gapi-client-javascript-to-execute-my-custom-google-api
  * https://developers.google.com/appengine/docs/java/endpoints/consume_js
  * https://developers.google.com/api-client-library/javascript/reference/referencedocs#gapiclientload
- *
+ * Her står lidt tekst
  */
 
 /**
